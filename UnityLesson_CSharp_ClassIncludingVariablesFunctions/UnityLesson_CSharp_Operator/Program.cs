@@ -12,7 +12,7 @@ namespace UnityLesson_CSharp_Operator
             int c = 0;
             //==============================================================================
             // 더하기
-            c = a + b;
+            c = OperatorMethods.Sum(a, b);
            
             //빼기
             c = a - b;

@@ -15,8 +15,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Instanti
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Operator", "UnityLesson_CSharp_Operator\UnityLesson_CSharp_Operator.csproj", "{17E75C57-6B30-4EAA-BDED-962657CFAF06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityLesson_CSharp_Operators", "UnityLesson_CSharp_Operators\UnityLesson_CSharp_Operators.csproj", "{5D125CC4-1DD7-4020-A9EF-7030D32D5C8F}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,10 +45,6 @@ Global
 		{17E75C57-6B30-4EAA-BDED-962657CFAF06}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17E75C57-6B30-4EAA-BDED-962657CFAF06}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17E75C57-6B30-4EAA-BDED-962657CFAF06}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5D125CC4-1DD7-4020-A9EF-7030D32D5C8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5D125CC4-1DD7-4020-A9EF-7030D32D5C8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5D125CC4-1DD7-4020-A9EF-7030D32D5C8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5D125CC4-1DD7-4020-A9EF-7030D32D5C8F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
